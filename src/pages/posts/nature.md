@@ -1,9 +1,7 @@
 ---
 title: '-'
 subtitle: '-'
-excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+excerpt: ''
 date: '2019-01-24'
 hide_header: false
 template: post
