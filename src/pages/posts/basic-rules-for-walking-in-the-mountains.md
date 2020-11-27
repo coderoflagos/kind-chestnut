@@ -1,6 +1,6 @@
 ---
 title: Launching ICEDwriteens
-excerpt: "Looking for a place to feel at ease with the beauty woven by the pen? Or, a place you can display and relate your writing skills with others. #\U0001D408\U0001D41C\U0001D41E\U0001D41D\U0001D416\U0001D42B\U0001D422\U0001D42D\U0001D41E\U0001D41E\U0001D427\U0001D42C is the place. "
+excerpt: "Looking for a place to feel at ease with the beauty woven by the pen? Or, a place you can display and relate your writing skills with others. #\U0001D408\U0001D41C\U0001D41E\U0001D41D\U0001D416\U0001D42B\U0001D422\U0001D42D\U0001D41E\U0001D41E\U0001D427\U0001D42C is the place..."
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
