@@ -38,13 +38,6 @@
                 "style": "icon",
                 "icon_class": "fa-facebook",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "fa-dev",
-                "new_window": true
             }
         ]
     },
