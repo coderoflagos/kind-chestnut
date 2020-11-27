@@ -2,7 +2,7 @@
     "description": "A minimal blogging theme for Stackbit",
     "header": {
         "title": "ICEDWriteens",
-        "tagline": "The home ",
+        "tagline": "The home of ",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
