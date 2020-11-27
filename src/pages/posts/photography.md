@@ -1,5 +1,5 @@
 ---
-title: s-
+title: s
 subtitle: '-'
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
